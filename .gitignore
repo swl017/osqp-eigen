@@ -1,3 +1,4 @@
+.vscode/
 -*- mode: gitignore; -*-
 *~
 \#*\#
@@ -11,3 +12,4 @@ tramp
 #build
 /build/
 *.user
+build/
